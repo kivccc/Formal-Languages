@@ -19,3 +19,4 @@ void main()
    }
    if (rev == org) write(org);
 }
+
